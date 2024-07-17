@@ -7,7 +7,7 @@ A thing that help you to scrape image from reddit.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install library.
 
 ```bash
-pip install beautifulsoup4
+pip install requests beautifulsoup4
 ```
 ```bash
 pip install praw
